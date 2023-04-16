@@ -1,0 +1,25 @@
+{
+  "name": "taking-notes",
+  "version": "1.0.0",
+  "description": "an application called Note Taker that can be used to write and save notes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winstonheard/taking-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winstonheard/taking-notes/issues"
+  },
+  "homepage": "https://github.com/winstonheard/taking-notes#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
